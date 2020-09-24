@@ -71,6 +71,18 @@ header{
 	background-color: #fff;
 }
 
+#popularsgoods h2{
+	font-weight: 800;
+	font-size: 15px;
+	color: #f7b614;
+}
+
+#popularsgoods h3{
+	font-weight: 800;
+	font-size: 40px;
+	color: #000;
+}
+
 #popularsgoods img{
 	height: 200px;
 	width: 200px;

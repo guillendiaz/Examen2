@@ -1,0 +1,147 @@
+@import url('https://fonts.googleapis.com/css2?family=Heebo:wght@300;400;600&family=Catamaran:wght@300;400;500;700&display=swap');
+
+body{
+	font-family: 'Heebo', sans-serif;
+	font-size: Segoe UI;
+	font-size: 15px;
+	color: #777;
+}
+header{
+	position: relative;
+	background-color: #282932;
+	width: 100%;
+	top:0;
+	border-bottom: 1px dashed rgba(255, 255, 255, 0.15);
+}
+
+#hero{
+	background-image: url("../img/slider-glob.png");
+    background-repeat: no-repeat;
+    background-position: top;
+    background-size: cover;
+    color: #FFF;
+    padding: 50px 0;    
+    background-color: #282932;
+	
+}
+
+.titulo{
+	font-weight: 800;
+	padding-top: 100px;
+	font-size: 60px;
+}
+
+.contenido{
+	font-family: 'Catamaran';
+}
+
+.titulo span{
+	color: #f7b614;
+}
+
+#hero h1{
+	font-weight: 800;
+	padding-top: 100px;
+	font-size: 60px;
+}
+
+#hero span{
+	color: #f7b614;
+}
+
+#hero p{
+	padding: 20px 0;
+}
+
+#hero button{
+	padding: 20px 90px;
+	font-weight: 800;
+	font-size: 15px;
+	border-radius: 50px;
+}
+
+#hero .img-bike{
+
+}
+
+#popularsgoods{
+	padding-top: 10px;
+	padding-bottom: 100px;
+	text-align: center;
+	background-color: #fff;
+}
+
+#popularsgoods img{
+	height: 200px;
+	width: 200px;
+}
+
+#popularsgoods button{
+	padding: 10px 40px;
+	font-weight: 800;
+	font-size: 15px;
+	border-radius: 50px;
+}
+
+#sitathome{
+	background-color: #282932;
+}
+
+.sit{
+	background-image: url(../img/sit-photo.jpg);
+	background-position: center;
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+#sitathome {
+	color: #fff;
+	text-align: left;
+}
+
+.sit2{
+	padding: 110px 80px;
+}
+
+.iconlist{
+	
+}
+
+.iconlist li{
+	color: #fff;
+	text-align: center;
+	padding-right: 50px;
+}
+
+#sitathome button{
+	margin: 20px 0;
+	padding: 20px 90px;
+	font-weight: 800;
+	font-size: 15px;
+	border-radius: 50px;
+}
+
+#ctasuscribe{
+	background-color: #f7b614;
+	height: 200px
+}
+
+footer{
+	background-color: #282932;
+	background-image: url(../img/footer-bg.png);
+	background-size: cover;
+	padding-top: 40px;
+	color: rgba(255, 255, 255, 0.55);
+	text-align: center;
+	font-size: 13px;
+	font-weight: 600;
+}
+footer p span{
+	color: #f7b614;
+}
+footer #copy{
+	padding: 20px 0;
+	margin-top: 5%;
+	color: #fff;
+	border-top: 1px dashed rgba(255, 255, 255, 0.15);
+}
